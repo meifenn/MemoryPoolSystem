@@ -31,3 +31,4 @@ public:
     size_t usedMemorySize() const;         // Used memory in bytes
     size_t freeMemorySize() const;         // Free memory in bytes
 };
+
